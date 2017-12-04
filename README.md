@@ -30,3 +30,8 @@ BONUS
 > - Il est possible de définir un photo de profil pour l'user
 > - Il est possible d'uploader des fichiers ou d'embed des vidéos YouTube
 > - Votre application est responsive.
+
+
+NOTE :
+-------------
+Votre application doit conserver les sessions après redémarrage et a travers les clusters. Car, oui votre application doit utiliser les clusters !!
