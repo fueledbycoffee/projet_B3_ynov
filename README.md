@@ -18,7 +18,7 @@ Cas d'usages utilisateur
 Cas d'usages administrateur
 -------------
 >- Un administrateur peut supprimer, censurer, kicker, bannir et transformer un utilisateur en admin.
-	- Un message censuré ou supprimer, devra être affiché comme tel
+	- Un message censuré ou supprimé, devra être affiché comme tel
 
 Cas d'usages superadmin
 -------------
