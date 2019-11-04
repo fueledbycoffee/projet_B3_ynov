@@ -1,4 +1,4 @@
-Mini Projet B3 - Node.JS - YNOV
+Mini Projet B3 - Node.JS
 ===================
 
 ###Objective 
